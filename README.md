@@ -41,6 +41,7 @@ You can view the demo here :
 
 ## Visuals
 
+<img width="1788" alt="Screen Shot 2021-10-07 at 9 33 26 AM" src="https://user-images.githubusercontent.com/78562158/136395049-93463118-4ec7-4c6e-92aa-f0402cc5703e.png">
 
 
 # License
