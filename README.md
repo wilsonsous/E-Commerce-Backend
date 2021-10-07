@@ -1,5 +1,6 @@
 # E-Commerce-Backend
-Powered by Node.js , this application will assist in assembling a team.
+
+The following project is a E-Commerce website mainly built with back end technology. This application uses Express.js API and Sequelize to interact with a MySQL database. This application creates a database using mySQL with models and associations. API Routes are derived to perform RESTful CRUD operations using sequelized models and the same is being tested in Postman.
 
   # Table of Contents 
   * [Technologies](#Technologies)
