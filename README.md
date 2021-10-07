@@ -11,10 +11,11 @@ The following project is a E-Commerce website mainly built with back end technol
   * [Questions](#questions)
 
 # Technologies
-- HTML
-- CSS
 - JAVASCRIPT
 - NODE.JS
+- Sequelize
+- Express
+- Postman
 
 ## Link
 You can view the demo here : 
