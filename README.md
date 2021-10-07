@@ -19,6 +19,26 @@ The following project is a E-Commerce website mainly built with back end technol
 ## Link
 You can view the demo here : 
 
+## Usage
+
+* Dependencies/Packages
+    - Node.js
+    - Express.js
+    - MySQL2
+    - Sequelize
+    - dotenv
+
+* Git clone the repo from Github
+
+* Navigate to the folder and run `npm install` in your terminal.
+
+* Be sure to include your MySQL user/password information in .env file.
+
+* Database Connection
+    - `mysql -u root -p`
+    - `source schema.sql`
+    - `npm run seed` [To seed the file]
+
 ## Visuals
 
 
